@@ -1,0 +1,38 @@
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans-serif-rounded</item>
+        <item name="android:colorAccent">#C96F91</item>
+        <item name="android:statusBarColor">#FFF9F5</item>
+        <item name="android:navigationBarColor">#FFF9F5</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#FFF9F5</item>
+    </style>
+    <style name="ReminderTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans-serif-rounded</item>
+        <item name="android:colorAccent">#C96F91</item>
+        <item name="android:statusBarColor">#493047</item>
+        <item name="android:navigationBarColor">#493047</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#FFF8F5</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <style name="AppThemeDark" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans-serif-rounded</item>
+        <item name="android:colorAccent">#E69AB6</item>
+        <item name="android:statusBarColor">#19151F</item>
+        <item name="android:navigationBarColor">#19151F</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#19151F</item>
+    </style>
+    <style name="ReminderThemeDark" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans-serif-rounded</item>
+        <item name="android:colorAccent">#E69AB6</item>
+        <item name="android:statusBarColor">#302337</item>
+        <item name="android:navigationBarColor">#302337</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#19151F</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

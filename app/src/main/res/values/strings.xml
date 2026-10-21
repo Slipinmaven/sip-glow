@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SipGlow</string>
+    <string name="status_notifications">Allow notifications so your check-ins can reach you.</string>
+    <string name="status_exact_alarms">Reminders are on; allow exact alarms for the most reliable timing.</string>
+    <string name="status_ready">All set — your check-ins will arrive right on time.</string>
+    <string name="water_logged">Logged %1$d ml. You’re taking good care of you.</string>
+    <string name="water_removed">Removed %1$d ml.</string>
+    <string name="tone_saved">Your reminder sound is saved.</string>
+    <string name="time_saved">Your reminder time is saved.</string>
+</resources>
